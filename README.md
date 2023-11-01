@@ -5,7 +5,7 @@
 
 - 🖳 I’m minoring in **Computer Science**
 
-- 🌱 I’m currently learning **Java and Python**
+- 🌱 I’m currently learning **C++**
 
 - 📫 Contact me at **patrickmastorga@gmail.com**
 
