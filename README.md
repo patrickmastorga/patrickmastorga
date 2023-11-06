@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C
 
-- ♟️ I'm currently working on a <a href="https://patrickmastorga.github.io](https://github.com/patrickmastorga/Chess">chess program</a>
+- ♟️ I'm currently working on a <a href="https://github.com/patrickmastorga/Chess">chess program</a>
 
 - 📫 Contact me at **patrickmastorga@gmail.com**
 
